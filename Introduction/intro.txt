@@ -1,6 +1,6 @@
 Introduction to OpenNest Project Lifecycles
 
-SLIDE ONE********
+*****SLIDE ONE SCRIPTING ********
 
 One of the more difficult things about developing an organization that builds on the creativity and ingenuity of humans is managing systems that support–not get in the way of–our humanity.
 
@@ -12,3 +12,11 @@ We’re not there yet. But we think if we are clear about a few things:
 We can move in the right direction
 
 Over the next few weeks we’re going to be rolling out some material that explains different parts of the systems and culture that underpins everything we do at OpenNest. So allow us to introduce you to Project Pedagogy [working title].
+
+*****SLIDE TWO SCRIPTING *******
+
+Purpose_
+
+Approach_
+
+Principles_
