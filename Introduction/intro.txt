@@ -15,8 +15,8 @@ Over the next few weeks we’re going to be rolling out some material that expla
 
 *****SLIDE TWO SCRIPTING *******
 
-Purpose_
-
-Approach_
-
 Principles_
+
+Process_
+
+Output_
