@@ -1,1 +1,18 @@
 Envisioning the Future
+
+*****Generating and Making Safe-to-Try New Ideas*****
+
+Two things are incredibly important to gain clarity on for a team prior to the beginning of a given project.
+1) Purpose
+2) The Problem
+
+It is arguable that a third component is relevant too, the Customer, but we have embedded this concept as a lower taxon within *both* Purpose and Problem.
+
+Derrick Bradley has an excellent post discussing the structure and function of good purpose found here: http://derrickbradley.github.io/2015/03/06/making-purpose-applicable/
+When we talk about The Problem, we mean a consistently experienced hurdle to our customer/user achieving an end result. This can be within an existing platform, or agnostic of any currently available solution.
+
+As we envision, we want to do just enough thinking to produce a minimal, testable value proposistion for our customers' need.
+
+The DAD framework reference (http://disciplinedagiledelivery.com) provides a concise working definition for testability:
+"you need to identify how you are going to measure the effectiveness of the new functionality that you produce."
+
