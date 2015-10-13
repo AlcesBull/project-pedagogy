@@ -1,1 +1,4 @@
 Initial Modeling, Planning and Organization
+
+The goal in inception is to evaluate what projects it is reasonable for the team to take on.
+There are a number of different modes for making such evaluations, but MoSCoW is a simple starting point for discussing.
